@@ -1,3 +1,3 @@
 ## Hi there, I'm Philippe 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pspasquier)](https://github.com/pspasquier/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pspasquier&hide_progress=true)
